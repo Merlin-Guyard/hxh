@@ -1,0 +1,25 @@
+{
+    "name": "hxh",
+    "title": "Hunter x Hunter",
+    "description": "An homebrew system for the manga Hunter x Hunter",
+    "author": "Merlin Guyard",
+    "version": 0.01,
+    "minimumCoreVersion": "11.309",
+    "compatibleCoreVersion": "11.309",
+    "esmodules": [
+        "hxh.js"
+    ],
+    "style": [
+        "hxh.css"
+    ],
+    "packs": [
+
+    ],
+    "languages": [
+
+    ],
+    "gridDistance": 5,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "pdv",
+    "initiative": "1d6 + @speed"
+}
